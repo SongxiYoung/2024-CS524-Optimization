@@ -1,3 +1,3 @@
 # 2024-CS524-Optimization
 
-Homeworks.
+Course materials and homeworks.
